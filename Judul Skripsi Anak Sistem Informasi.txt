@@ -1,0 +1,7 @@
+1. Sistem penyeludupan narkoba tingkat kelas atas
+2. Analisis data perancangan UI/UX, Aplikasi untuk pemesanan makanan
+3. Sistem keamanan pintu Gudang berbasis IoT menggunakan sensor yang terhubung dengan notifikasi smartphone
+4. Sistem pakar untuk mendiagnosis penyakit paratusin menggunakan metode certainfukul berbasis website
+5. Implementasi system penjualan menggunakan system algoritma kmean dan identifikasi pemilihan pelanggan
+6. system penilaian pekerjaan guru menggunakan metode saw
+7.

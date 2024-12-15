@@ -1,0 +1,21 @@
+extends ../../layouts/ui-layout/ui-layout.pug
+
+block variables
+	- var title = 'Кнопки - UI-kit и HTML фреймворк - Документация';
+	- var pageClass = 'body--dashboard';
+
+block content
+	.main-wrapper
+		.container.container--left.user-content.pt-35
+			h1 Кнопки
+			
+			.section-ui
+				+button('Текст кнопки', '#!')
+			pre.
+				+button('Текст кнопки', '#!')
+			
+			.title mixins/_buttons.pug
+			pre.
+				mixin button(text, link)
+					a(class="button" href= link)&attributes(attributes) #{text}
+
